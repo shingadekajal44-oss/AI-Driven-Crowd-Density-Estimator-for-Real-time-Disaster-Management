@@ -1,7 +1,7 @@
 # 🚀 AI-Driven Crowd Density Estimator for Real-Time Disaster Management
 
 An intelligent deep learning-based crowd density estimation system designed for real-time disaster monitoring and emergency response.  
-The system analyzes images/video feeds to estimate crowd density accurately using adaptive model switching.  
+The system analyzes images feeds to estimate crowd density accurately using adaptive model switching.  
 It integrates visualization dashboards and automated reporting to assist authorities in fast, data-driven decision-making during critical situations.
 
 ---
@@ -56,4 +56,5 @@ It integrates visualization dashboards and automated reporting to assist authori
 - Scalable and disaster-ready deployment design
 
 ---
+
 

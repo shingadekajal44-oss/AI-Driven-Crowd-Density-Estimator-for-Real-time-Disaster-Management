@@ -13,7 +13,6 @@ It integrates visualization dashboards and automated reporting to assist authori
 - 📊 Real-time Crowd Density Estimation
 - 🔄 Adaptive Model Switching
 - 🖥️ Interactive Visualization Dashboard
-- 📄 Automated PDF Reporting
 - ⚡ GPU Accelerated Processing
 
 ---
@@ -56,5 +55,6 @@ It integrates visualization dashboards and automated reporting to assist authori
 - Scalable and disaster-ready deployment design
 
 ---
+
 
 
